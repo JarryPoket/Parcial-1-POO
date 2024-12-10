@@ -13,6 +13,18 @@ Aca se realiza un pedido, en este caso de hamburguesa, donde se le da la opcion 
 
 ### Segundo pedido:
 
-![image](https://github.com/user-attachments/assets/286bb220-e6d8-4879-bd1b-b1d2fcf0b83a)
+![image](https://github.com/user-attachments/assets/47bc881e-e4d5-4807-ba78-5b8489aca710)
 
-Tambien se practica la opcion de cancelar, donde ya no se pide hamburguesa, sino que da la opción de pedir otra opcion del menu.
+Tambien se practica la opcion de cancelar, donde ya no se pide hamburguesa, sino que da la opción de pedir otra opcion del menu. Aca se evidencia el uso de la opcion sin adicional, sin embargo hay mas opciones que se pueden tomar.
+
+### Errores:
+
+![image](https://github.com/user-attachments/assets/33d406b1-0f24-40bc-9034-890ecee6c7e0)
+
+Al escribir un numero que no esta previsto se le da un mensaje de error y da la opcion de volverlo a escribir.
+
+### Finalización:
+
+![image](https://github.com/user-attachments/assets/75dbe482-045a-4bc5-856c-5c1bf9b0016a)
+
+Aqui se aplica la ultima función, la cual es para terminar el programa.
