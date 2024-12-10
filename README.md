@@ -10,3 +10,9 @@ Aqui por el metodo de switch-case se hizo una interfaz donde podia ver el menu c
 ![image](https://github.com/user-attachments/assets/cadb7cb6-1595-4d40-992d-576f2c3914d4)
 
 Aca se realiza un pedido, en este caso de hamburguesa, donde se le da la opcion de elegir si quiere adicionales y al final del pedido se le da la factura correspondiente.
+
+### Segundo pedido:
+
+![image](https://github.com/user-attachments/assets/286bb220-e6d8-4879-bd1b-b1d2fcf0b83a)
+
+Tambien se practica la opcion de cancelar, donde ya no se pide hamburguesa, sino que da la opción de pedir otra opcion del menu.
