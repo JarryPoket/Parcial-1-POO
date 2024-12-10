@@ -15,7 +15,7 @@ Aca se realiza un pedido, en este caso de hamburguesa, donde se le da la opcion 
 
 ![image](https://github.com/user-attachments/assets/47bc881e-e4d5-4807-ba78-5b8489aca710)
 
-Tambien se practica la opcion de cancelar, donde ya no se pide hamburguesa, sino que da la opción de pedir otra opcion del menu. Aca se evidencia el uso de la opcion sin adicional, sin embargo hay mas opciones que se pueden tomar.
+Aca se le da un uso a la opcion de cancelar, para pedir otra opcion del menu. Adicionalemente, este pedido no tiene opcion de papas, por lo que solo aparecen 2 opciones a elegir.
 
 ### Errores:
 
